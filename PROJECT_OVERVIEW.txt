@@ -1,0 +1,6 @@
+SmartTodo – Placement Preparation & Student Productivity System
+Frontend: React 18, JavaScript, CSS, Lucide React, React Toastify
+Backend: Node.js, Express REST API
+Database: MongoDB with Mongoose
+Frontend state persistence: MongoDB for tasks; browser localStorage for roadmap, interview practice and quiz history.
+Start instructions: See README.md.
